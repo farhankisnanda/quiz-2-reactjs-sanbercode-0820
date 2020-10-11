@@ -11,3 +11,4 @@ const volumeKubus = (s) => {
 const hasilKedua = (volumeKubus(4))
 const hasilVolume = `${hasilPertama}, ${hasilKedua}`
 console.log (hasilVolume)
+ 
